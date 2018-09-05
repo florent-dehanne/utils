@@ -1,1 +1,2 @@
 prestashop/csv/*
+!.gitignore
